@@ -1,4 +1,3 @@
-
 def get_variable_from_file(file, variable)
   file_scope = binding
   def puts(*args)
